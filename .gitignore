@@ -1,0 +1,6 @@
+.idea/
+x64/
+Debug/
+Release/
+test/NumericLimits/x64/
+example/Parsing/x64/
